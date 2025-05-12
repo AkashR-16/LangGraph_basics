@@ -65,12 +65,4 @@ Type `exit` to quit the loop.
 * LLM-based classification using structured output
 * Modular architecture powered by LangGraph nodes
 
-## 📌 TODO
 
-* Add memory persistence
-* Add streaming support
-* Add unit tests
-
----
-
-Created with ❤️ using LLMs + LangGraph
