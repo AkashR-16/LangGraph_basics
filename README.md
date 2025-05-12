@@ -5,7 +5,7 @@ This project demonstrates how to build modular LLM applications using [LangGraph
 ## 📁 Project Structure
 
 * `basic.py` — A minimal chatbot demo that showcases basic LLM integration using `ollama:llama3.2`. Great for sanity checking setup.
-* `main.py` — A more advanced chatbot that:
+* `main.py` — A chatbot that:
 
   * Classifies user input into `emotional` or `logical`
   * Routes the message to the appropriate agent
