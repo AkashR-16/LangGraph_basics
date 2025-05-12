@@ -25,20 +25,8 @@ Then we need to add the dependencies:
 uv add langgraph ipykernel langchain-community langchain-ollama  
 ```
 
-Run it with:
-
-```bash
-uv start
-```
-
 > **Note:** This project uses `uv` instead of `pip` for faster and deterministic dependency management.
 
-Create a `.env` file to configure the environment:
-
-```env
-# Example
-OLLAMA_BASE_URL=http://localhost:11434
-```
 
 ## 🧠 LLM Configuration
 
